@@ -23,8 +23,6 @@ I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. 
 
 ---
 
----
-
 ### How to reach me
 * Discord: **fbihauntsme**
-* [spite.live](https://spite.live/batman762) & [Portfolio]()
+* [Guns.lol](https://guns.lol/batman_dev) & [Portfolio](https://wavydevelopment.xyz)
