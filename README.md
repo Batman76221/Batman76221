@@ -28,10 +28,10 @@ I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. 
 * [Guns.lol](https://guns.lol/batman_dev) & [Portfolio](https://wavydevelopment.xyz)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman76221&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman76221&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman76221&theme=tokyonight"/>
 </p>
+
+![GitHub followers](https://img.shields.io/github/followers/Batman76221?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Batman76221?style=for-the-badge)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=%24.public_repos&url=https://api.github.com/users/Batman76221)
