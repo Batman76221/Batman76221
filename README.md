@@ -25,7 +25,7 @@ I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. 
 
 ### How to reach me
 * Discord: **fbihauntsme**
-* [Guns.lol](https://guns.lol/batman_dev) & [Portfolio](https://wavydevelopment.xyz)
+* [Fakecrime.bio](https://fakecrime.bio/fbihauntsme) & [Portfolio](https://wavydevelopment.xyz)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman76221&theme=tokyonight"/>
