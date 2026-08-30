@@ -1,6 +1,6 @@
 ## Hi there 
 
-I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. One of my biggest projects is a neverlose lua called **Catboy.lua** with tons of features.
+I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. One of my biggest projects is a discord bot called **PurifyBot** with tons of features.
 
 ---
 
