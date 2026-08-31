@@ -3,7 +3,7 @@
 I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. One of my biggest projects is a discord bot called **PurifyBot** with tons of features.
 
 ---
-**C++** &nbsp;·&nbsp; **TypeScript** &nbsp;·&nbsp; **ui/ux** &nbsp;·* &nbsp;·&nbsp; Discord `Terrified`
+**C++** &nbsp;·&nbsp; **TypeScript** &nbsp;·&nbsp; **ui/ux** &nbsp;·* &nbsp;·&nbsp; Discord `fbihauntsme`
 --
 Figma designer ·&nbsp; Website designer ·&nbsp; Malware analyst
 ---
