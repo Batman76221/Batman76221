@@ -5,7 +5,7 @@ I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. 
 ---
 **C++** &nbsp;·&nbsp; **TypeScript** &nbsp;·&nbsp; **ui/ux** &nbsp;·* &nbsp;·&nbsp; Discord `Terrified`
 --
-Figma designer ·&nbsp; Website designer ·&nbsp; Malware alayst
+Figma designer ·&nbsp; Website designer ·&nbsp; Malware analyst
 ---
 ### About Me
 - **Discord bot developer** — built and published multiple bots on GitHub
