@@ -1,19 +1,27 @@
-## Hi there 
+# Terrified
 
-I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. One of my biggest projects is a discord bot called **PurifyBot** with tons of features.
+**Hi, Welcome to my GitHub profile!**
+<br/>
 
----
-**C++** &nbsp;·&nbsp; **TypeScript** &nbsp;·&nbsp; **ui/ux** &nbsp;·* &nbsp;·&nbsp; Discord `fbihauntsme`
---
-Figma designer ·&nbsp; Website designer ·&nbsp; Malware analyst
----
-### About Me
-- **Discord bot developer** — built and published multiple bots on GitHub
-- **Malware analyst** 
-- **CS:GO Lua scripter** mainly on [Neverlose](https://neverlose.cc)
-- **Always learning** and building new things in my free time
+> **I'm 16 a discord bot developer, malware analyst and neverlose csgo lua creator. One of my biggest projects is a discord bot called **PurifyBot** with tons of features.** ♥️
 
----
+```bash
+>> neofetch
+```
+
+<img align="left" src="https://spite.live/uploads/1787874868797.png" width="189"/>
+
+```python
+  Name     : Terrified
+  Activity : Private and Public repositories
+  Skillset : TypeScript, JavaScript, C#, CSS, HTML, Rust, Python
+  Discord  : 346752632729239553
+  Hobbies  : [
+    Application Development,
+    Website Developmemt,
+    Discord bot Development
+  ]
+```
 
 ### Skills & Tools
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
