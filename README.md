@@ -15,7 +15,7 @@
   Name     : Terrified
   Activity : Private and Public repositories
   Skillset : TypeScript, JavaScript, C#, CSS, HTML, Rust, Python
-  Discord  : 346752632729239553
+  Discord  : 1447292903654428733
   Hobbies  : [
     Application Development,
     Website Developmemt,
