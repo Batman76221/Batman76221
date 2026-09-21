@@ -9,7 +9,7 @@
 >> neofetch
 ```
 
-<img align="left" src="https://spite.live/uploads/1787874868797.png" width="189"/>
+<img align="left" src="https://wavydevelopment.xyz/terrified.png" width="189"/>
 
 ```python
   Name     : Terrified
